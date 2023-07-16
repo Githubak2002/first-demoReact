@@ -1,0 +1,6 @@
+1 - npm create vite@latest
+2 - name of project
+    select react and then javaScript
+3 - cd to folder created
+4 - npm i - to install all node modules
+5 - npm run dev
